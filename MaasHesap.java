@@ -1,3 +1,13 @@
+/*
+ * Ad Soyad: Nazlı Karaağaç
+ * Ogrenci No: 250541105
+ * Tarih: 06.11.2025
+ * Aciklama: Gorev 3 - Maas Bordrosu
+ *
+ *Bu program kullanicidan calisanin adini-soyadini, aylik brut maasini,
+ *haftalik calisma saatini ve mesai saati sayisini alarak calisanin maas 
+ *bordrosunu ekrana yazdirir.
+
 import java.util.Scanner;
 
 public class MaasHesap {
