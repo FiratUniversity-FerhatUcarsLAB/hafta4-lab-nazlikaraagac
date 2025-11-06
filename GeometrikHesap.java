@@ -4,8 +4,11 @@
  * Tarih: 06.11.2025
  * Aciklama: Gorev 2 - Geometrik Hesaplayici
  *
- *Bu program bir dairenin yarıçapını kullanıcıdan alır ve dairenin alanını, hacmini, çevresini, çapını, yüzey alanını hesaplayarak çıktısını verir.
+ *Bu program bir dairenin yaricapini kullanicidan alir
+ *ve dairenin alanini, capini, cevresini; kurenin hacmini,
+ *yuzey alanini duzenli bir formatta ekrana yazdirir.
 
+     
 import java.util.Scanner;
 
 public class GeometrikHesaplama {
