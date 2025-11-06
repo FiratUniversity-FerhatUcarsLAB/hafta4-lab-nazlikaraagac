@@ -2,7 +2,7 @@
  * Ad Soyad: Nazlı Karaağaç
  * Ogrenci No: 250541105
  * Tarih: 06.11.2025
- * Aciklama: Gorev 1 - Geometrik Hesaplayici
+ * Aciklama: Gorev 2 - Geometrik Hesaplayici
  *
  *Bu program bir dairenin yarıçapını kullanıcıdan alır ve dairenin alanını, hacmini, çevresini, çapını, yüzey alanını hesaplayarak çıktısını verir.
 
